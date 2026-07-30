@@ -1,0 +1,21 @@
+---
+title: "Data Visualization of Lisbon's trees in public spaces."
+description: |
+  We all deserve trees.
+author: M . J. Duarte Rosa
+date: 2026-07-28
+image: map_arvores_app.png
+execute: 
+  cache: true
+categories:
+  - magick
+---
+
+Bakjghadkgj adkjfhgakdjfg akjghadkfga adfjkghadfkgja dfkghadkfjg arjghadkfhg.
+
+```{python}
+print("Hello World!")
+```
+
+![](map_arvores_app.png){width=400px}
+

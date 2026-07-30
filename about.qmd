@@ -1,0 +1,31 @@
+---
+open-graph: true
+title: "data-limite"
+description: |
+  Open Data. 
+  Data Science.
+image: images/map_arvores_app.png
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/mjduarterosa
+
+---
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="thomasmock" data-color="#5F7FFF" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+<br>
+
+# Education
+
+* Bachelor's degree from Southwestern University (where I thought I wanted to be a Physical Therapist).
+* Master's degree from Florida Atlantic University (where I realized I actually really liked data and making graphs)
+* Doctorate from UNT Health Science Center (where I realized I really didn't like academia, but still really liked data, graphs, and now R)
+
+## Current State
+
+I fell in love with R and data science through my graduate research, using R and RStudio to wrangle, analyze, model, and visualize my data. I became passionate about growing the R community, and founded [`#TidyTuesday`](https://github.com/rfordatascience/tidytuesday/blob/master/README.md) to help newcomers and seasoned vets improve their `Tidyverse` skills.
+
+I am a Product Manager at Posit, overseeing the Posit Workbench and RStudio team.

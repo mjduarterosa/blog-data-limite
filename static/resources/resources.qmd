@@ -1,0 +1,26 @@
+---
+title: "&nbsp;"
+toc: false
+listing:
+  - id: "resources"
+    sort-ui: false
+    filter-ui: true
+    categories: false
+    type: table
+    page-size: 10
+    fields: [title, description]
+    contents: 
+      - "*.qmd"
+resources:
+  - "**"
+  - "!(.qmd|.rmd)"
+---
+
+## Resources
+
+::: {#resources}
+:::
+
+## Presentations
+
+## Random

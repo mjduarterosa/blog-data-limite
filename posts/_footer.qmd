@@ -1,0 +1,11 @@
+<details><summary>Session Info</summary>
+
+<div style='font-size:12px;'>
+
+```{python}
+print("Footer")
+```
+
+</div>
+
+</details>
