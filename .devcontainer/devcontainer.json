@@ -6,10 +6,13 @@
       "version": "latest"
     }
   },
-  "postCreateCommand": "pip install jupyter pyyaml",
+  "postCreateCommand": "pip install -r requirements.txt",
   "customizations": {
     "vscode": {
-      "extensions": ["quarto.quarto", "ms-python.python"]
+      "extensions": [
+        "quarto.quarto",
+        "ms-python.python"
+      ]
     }
   },
   "forwardPorts": [4200]
